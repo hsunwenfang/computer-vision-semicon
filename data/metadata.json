@@ -1,0 +1,14 @@
+{
+  "num_images": 512,
+  "image_size": [
+    128,
+    128
+  ],
+  "seed": 42,
+  "timestamp": "2025-07-18T16:43:43.564049",
+  "label_distribution": [
+    0,
+    38,
+    474
+  ]
+}

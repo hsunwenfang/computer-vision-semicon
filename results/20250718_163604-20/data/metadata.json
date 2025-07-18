@@ -1,0 +1,20 @@
+{
+  "num_images": 20,
+  "image_size": [
+    128,
+    128
+  ],
+  "seed": 42,
+  "timestamp": "2025-07-18T16:36:29.449587",
+  "label_distribution": [
+    0,
+    0,
+    20
+  ],
+  "output_structure": {
+    "base_dir": "results/20250718_163604-20",
+    "data_dir": "results/20250718_163604-20/data",
+    "img_dir": "results/20250718_163604-20/img",
+    "report_dir": "results/20250718_163604-20/report"
+  }
+}
