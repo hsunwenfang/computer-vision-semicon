@@ -5,7 +5,7 @@
 
 set -e
 
-PYTHON_CMD="/Users/hsunwenfang/Documents/computer-vision-semicon/.venv/bin/python"
+PYTHON_CMD="./.venv/bin/python"
 
 case "${1:-main}" in
     "main")
